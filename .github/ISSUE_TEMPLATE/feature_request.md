@@ -3,7 +3,7 @@ name: ✨ Feature Request
 about: Suggest a new feature or enhancement for Drishti
 title: "[FEATURE] "
 labels: enhancement
-assignees: Abhishekkumar2021
+assignees: artis2021
 ---
 
 ## Problem Statement

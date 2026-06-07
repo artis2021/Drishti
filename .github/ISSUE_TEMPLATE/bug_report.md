@@ -3,7 +3,7 @@ name: 🐛 Bug Report
 about: Report a bug in Drishti
 title: "[BUG] "
 labels: bug
-assignees: Abhishekkumar2021
+assignees: artis2021
 ---
 
 ## Describe the Bug

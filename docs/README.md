@@ -96,7 +96,7 @@ This repository is **documentation-first**: architecture, ADRs, product epics, L
 
 ## Connected Narrative: Pravah & Drishti
 
-Drishti is designed as a sister project to [Pravah (प्रवाह)](https://github.com/Abhishekkumar2021/Pravah).
+Drishti is designed as a sister project to [Pravah (प्रवाह)](https://github.com/artis2021/Pravah).
 
 - **Pravah** orchestrates the *flow* and synchronization of streaming data.
 - **Drishti** provides the *vision* and comprehension to query and understand large codebases and documents.

@@ -61,5 +61,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Source package structure (`src/drishti/` with all submodules)
 - Test directory structure (unit, integration, e2e)
 
-[Unreleased]: https://github.com/Abhishekkumar2021/Drishti/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/Abhishekkumar2021/Drishti/releases/tag/v0.1.0
+[Unreleased]: https://github.com/artis2021/Drishti/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/artis2021/Drishti/releases/tag/v0.1.0

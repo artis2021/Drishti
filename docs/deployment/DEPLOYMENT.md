@@ -43,7 +43,7 @@ For local-only deployment, you can use **Ollama** instead (no API key required).
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Abhishekkumar2021/Drishti.git
+git clone https://github.com/artis2021/Drishti.git
 cd Drishti
 ```
 
@@ -384,7 +384,7 @@ curl http://localhost:6333/collections
 
 ### Getting Help
 
-- GitHub Issues: [github.com/Abhishekkumar2021/Drishti/issues](https://github.com/Abhishekkumar2021/Drishti/issues)
+- GitHub Issues: [github.com/artis2021/Drishti/issues](https://github.com/artis2021/Drishti/issues)
 - Documentation: [docs/](../README.md)
 
 ---

@@ -13,7 +13,7 @@ We actively support and patch the latest version of Drishti. If you discover a s
 
 We take the security of Drishti seriously. If you find a security vulnerability, please do **not** open a public GitHub issue. Instead, report it privately to the maintainer:
 
-* **Email:** [abhishek.kumar2021@gmail.com](mailto:abhishek.kumar2021@gmail.com)
+* **Email:** [upasnagupta3333@gmail.com](mailto:upasnagupta3333@gmail.com)
 * Please include as much detail as possible, including:
   - A description of the vulnerability.
   - Steps to reproduce (a proof-of-concept script/exploit is highly appreciated).

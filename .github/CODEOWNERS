@@ -2,16 +2,16 @@
 # Drishti Code Owners
 # ============================================================================
 
-*                           @Abhishekkumar2021
+*                           @artis2021
 
-/docs/adr/                  @Abhishekkumar2021
-/docs/architecture/         @Abhishekkumar2021
-/docs/lld/                  @Abhishekkumar2021
-/docs/product/              @Abhishekkumar2021
+/docs/adr/                  @artis2021
+/docs/architecture/         @artis2021
+/docs/lld/                  @artis2021
+/docs/product/              @artis2021
 
-/.github/                   @Abhishekkumar2021
-/pyproject.toml             @Abhishekkumar2021
-/uv.lock                    @Abhishekkumar2021
+/.github/                   @artis2021
+/pyproject.toml             @artis2021
+/uv.lock                    @artis2021
 
-/src/                       @Abhishekkumar2021
-/tests/                     @Abhishekkumar2021
+/src/                       @artis2021
+/tests/                     @artis2021

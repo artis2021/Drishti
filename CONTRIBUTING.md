@@ -41,7 +41,7 @@ gitGraph
 ### 1. Fork & Clone
 
 ```bash
-gh repo fork Abhishekkumar2021/Drishti --clone
+gh repo fork artis2021/Drishti --clone
 cd Drishti
 make setup
 ```
@@ -194,7 +194,7 @@ When contributing code, also update:
 
 ## Getting Help
 
-- Open a [GitHub Issue](https://github.com/Abhishekkumar2021/Drishti/issues)
+- Open a [GitHub Issue](https://github.com/artis2021/Drishti/issues)
 - Start at the [Documentation Hub](docs/README.md)
 - Check existing [ADRs](docs/adr/README.md) for design rationale
 - Read [Architecture](docs/architecture/README.md) and [Deep-Dives](docs/deep-dives/README.md) for technical understanding

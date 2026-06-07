@@ -11,7 +11,7 @@
 [![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC382D?style=flat-square)](https://qdrant.tech)
 [![Tree-sitter](https://img.shields.io/badge/Tree--sitter-AST-4B8BBE?style=flat-square)](https://tree-sitter.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/Abhishekkumar2021/Drishti/ci.yml?style=flat-square&label=CI)](https://github.com/Abhishekkumar2021/Drishti/actions)
+[![CI](https://img.shields.io/github/actions/workflow/status/artis2021/Drishti/ci.yml?style=flat-square&label=CI)](https://github.com/artis2021/Drishti/actions)
 
 </div>
 
@@ -178,7 +178,7 @@ Further reading: [Platform V2](docs/architecture/platform-v2-agentic.md) · [C4 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Abhishekkumar2021/Drishti.git
+git clone https://github.com/artis2021/Drishti.git
 cd Drishti
 
 # First-time setup (installs uv, creates venv, installs deps)
@@ -343,7 +343,7 @@ Details: **[docs/IMPLEMENTATION_STATUS.md](docs/IMPLEMENTATION_STATUS.md)**
 
 | Project | Description | Relationship |
 |---------|-------------|-------------|
-| **[Pravah (प्रवाह)](https://github.com/Abhishekkumar2021/Pravah)** | Workflow orchestration platform for data pipelines | Drishti indexes Pravah's codebase as its demo. *The flow of data, and the vision to understand it.* |
+| **[Pravah (प्रवाह)](https://github.com/artis2021/Pravah)** | Workflow orchestration platform for data pipelines | Drishti indexes Pravah's codebase as its demo. *The flow of data, and the vision to understand it.* |
 
 ---
 
